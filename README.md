@@ -13,6 +13,15 @@ This project analyzes sales performance for a superstore across multiple dimensi
 - **Excel** (Data Cleaning & Preparation)
 - **DAX** (Measures & Calculations)
 
+- 
+## Screenshots
+![image](https://github.com/user-attachments/assets/50810c52-79e1-403e-bb6a-8c6cdeb323fd)
+
+![image](https://github.com/user-attachments/assets/3d2dc0ae-d6cf-45e9-8432-c90f1e02de36)
+
+
+
+
 
 ## Future Enhancements
 - Add customer segmentation insights.
